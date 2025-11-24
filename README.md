@@ -1,4 +1,5 @@
 #Shopping_cart_system
+
 Project Overview: Supermarket Billing & Inventory Management System (Python)
 
 This Python project is a console-based supermarket shopping and billing system that allows customers to browse products, add items to their cart, remove items, apply discounts, and generate a detailed receipt. The program also includes an inventory system that tracks stock levels in real time.
