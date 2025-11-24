@@ -225,3 +225,123 @@ Can be used as a demonstrative project in labs.
 People helping local shops can use it to streamline billing.
 
 Saves time by automating calculations.
+
+
+---
+
+Here are the High-Level Features of your Supermarket Billing & Inventory Management System.
+These are broad, top-level features that describe what the system achieves without going into detailed functionality.
+
+
+---
+
+⭐ High-Level Features
+
+1. Product Inventory Management
+
+Maintains a list of available supermarket items along with their prices and stock levels, and updates stock automatically based on user actions.
+
+
+---
+
+2. Shopping Cart System
+
+Allows users to add and remove items, manage quantities, and view real-time cart contents before checkout.
+
+
+---
+
+3. Automated Billing & Price Calculation
+
+Generates a complete bill that includes:
+
+Item name
+
+Quantity
+
+Unit price
+
+Subtotal per item
+
+Grand total
+
+
+All calculations are automatic and error-free.
+
+
+---
+
+4. Coupon / Discount Handling
+
+Supports discount codes (e.g., SAVE10) to reduce the total bill.
+The system validates the coupon and applies the correct discount percentage.
+
+
+---
+
+5. Receipt Generation
+
+Automatically creates a detailed receipt in a .txt file containing:
+
+Customer details
+
+Order ID
+
+Purchased items
+
+Final payable amount
+
+Delivery address
+
+Estimated delivery date
+
+
+
+---
+
+6. User-Friendly Menu Interface
+
+A clean, menu-driven interface that lets users:
+
+View all items
+
+Add / remove products
+
+Checkout
+
+Exit the system easily
+
+
+
+---
+
+7. Order and Delivery Simulation
+
+Generates:
+
+A unique random Order ID
+
+An estimated delivery date based on the current date and random delivery days
+
+
+This simulates the online shopping experience.
+
+
+---
+
+8. Error Handling & Input Validation
+
+Handles:
+
+Invalid item names
+
+Out-of-stock conditions
+
+Invalid quantity removal
+
+Wrong coupon codes
+
+
+Ensures smooth and safe user experience.
+
+
