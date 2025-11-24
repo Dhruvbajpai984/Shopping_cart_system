@@ -138,8 +138,6 @@ Prevents negative or excessive quantities.
 Handles missing or incorrect coupon code entries.
 
 
-Here is a clear and well-written Target Users section for your project report or PPT:
-
 
 ---
 
@@ -227,11 +225,6 @@ People helping local shops can use it to streamline billing.
 Saves time by automating calculations.
 
 
----
-
-Here are the High-Level Features of your Supermarket Billing & Inventory Management System.
-These are broad, top-level features that describe what the system achieves without going into detailed functionality.
-
 
 ---
 
@@ -242,14 +235,13 @@ These are broad, top-level features that describe what the system achieves witho
 Maintains a list of available supermarket items along with their prices and stock levels, and updates stock automatically based on user actions.
 
 
----
 
 2. Shopping Cart System
 
 Allows users to add and remove items, manage quantities, and view real-time cart contents before checkout.
 
 
----
+
 
 3. Automated Billing & Price Calculation
 
@@ -269,7 +261,6 @@ Grand total
 All calculations are automatic and error-free.
 
 
----
 
 4. Coupon / Discount Handling
 
@@ -277,7 +268,6 @@ Supports discount codes (e.g., SAVE10) to reduce the total bill.
 The system validates the coupon and applies the correct discount percentage.
 
 
----
 
 5. Receipt Generation
 
@@ -297,8 +287,6 @@ Estimated delivery date
 
 
 
----
-
 6. User-Friendly Menu Interface
 
 A clean, menu-driven interface that lets users:
@@ -313,8 +301,6 @@ Exit the system easily
 
 
 
----
-
 7. Order and Delivery Simulation
 
 Generates:
@@ -327,7 +313,6 @@ An estimated delivery date based on the current date and random delivery days
 This simulates the online shopping experience.
 
 
----
 
 8. Error Handling & Input Validation
 
