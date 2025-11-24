@@ -29,9 +29,6 @@ Stock availability
 Updates stock automatically when the user buys or removes items.
 
 
-
----
-
 3. Display Items Function
 
 Shows all available items in a neat format.
@@ -44,10 +41,6 @@ Price
 
 Current Stock
 
-
-
-
----
 
 4. Add-to-Cart System
 
@@ -74,9 +67,6 @@ Corresponding prices
 Allows adding multiple quantities at once.
 
 
-
----
-
 5. Remove Items From Cart
 
 Shows a frequency table of items currently in the cart.
@@ -91,10 +81,6 @@ Item is not in cart
 
 User tries to remove more than they have
 
-
-
-
----
 
 6. Checkout System
 
@@ -118,9 +104,6 @@ Calculates total amount.
 Option to apply coupon.
 
 
-
----
-
 7. Coupon System
 
 Supports SAVE10 coupon.
@@ -129,9 +112,6 @@ Gives 10% discount on the total bill.
 
 Validates coupon code.
 
-
-
----
 
 8. Receipt Generation
 
@@ -152,10 +132,6 @@ Delivery address
 Estimated delivery date
 
 
-
-
----
-
 9. Randomized Order & Delivery System
 
 Generates a random 5-digit Order ID.
@@ -166,10 +142,6 @@ Random number of days (3–7)
 
 Current date
 
-
-
-
----
 
 10. Cart & Inventory Reset
 
@@ -182,9 +154,6 @@ Stock is already updated
 
 Prepares system for next customer session.
 
-
-
----
 
 11. User-Friendly Menu
 
@@ -203,9 +172,6 @@ The main menu includes:
 
 
 5. Exit
-
-
-
 
 ---
 
@@ -254,9 +220,6 @@ Exception Handling
 Modules and libraries
 
 
-
----
-
 2. Python Standard Libraries
 
 Your project uses these built-in Python modules:
@@ -286,10 +249,6 @@ Displaying cart summary
 Frequency table during checkout
 
 
-
-
----
-
 3. Text File Storage
 
 The project uses receipt.txt for saving the final billing receipt.
@@ -297,15 +256,11 @@ The project uses receipt.txt for saving the final billing receipt.
 Enables persistent record-keeping.
 
 
-
----
-
 4. Terminal / Command Line Interface
 
 User interacts through a console-based menu.
 
 Uses input() for user responses and print() for display.
-
 
 ---
 
