@@ -138,3 +138,90 @@ Prevents negative or excessive quantities.
 Handles missing or incorrect coupon code entries.
 
 
+Here is a clear and well-written Target Users section for your project report or PPT:
+
+
+---
+
+🎯 Target Users
+
+The Supermarket Billing & Inventory Management System is designed for the following groups of users:
+
+
+1. Small and Medium Supermarket Owners
+
+Owners who need a simple tool for managing billing and inventory.
+
+Helps them reduce manual calculation errors.
+
+Useful for stores without advanced POS systems.
+
+
+
+2. Cashiers and Billing Staff
+
+People responsible for daily billing tasks.
+
+Can use this system to quickly:
+
+Add items
+
+Generate bills
+
+Apply discounts
+
+Provide receipts to customers
+
+
+
+3. Students Learning Python
+
+Ideal for beginners who want to understand:
+
+Dictionaries
+
+File handling
+
+Functions
+
+Loops
+
+Basic inventory logic
+
+
+A great educational project for practice and assignments.
+
+
+
+4. Developers Creating Billing Systems
+
+Programmers who want a base model to build:
+
+A GUI billing application
+
+A web-based shopping portal
+
+Mobile shopping systems
+
+
+
+5. Training Institutes / Schools
+
+Useful for teaching:
+
+Project-based learning
+
+Logic building
+
+Real-world application development
+
+
+Can be used as a demonstrative project in labs.
+
+
+
+6. Freelancers / Shop Assistants
+
+People helping local shops can use it to streamline billing.
+
+Saves time by automating calculations.
