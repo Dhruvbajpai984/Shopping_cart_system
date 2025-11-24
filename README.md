@@ -229,6 +229,87 @@ Billing system logic
 
 Basic user input validation
 
+Here is a clean and simple section you can add to your documentation:
+
+
+---
+
+🔧 Technologies / Tools Used
+
+1. Python Programming Language
+
+The entire project is built using core Python.
+Python features used:
+
+Functions
+
+Conditionals & Loops
+
+Lists & Dictionaries
+
+File Handling (writing receipt.txt)
+
+Exception Handling
+
+Modules and libraries
+
+
+
+---
+
+2. Python Standard Libraries
+
+Your project uses these built-in Python modules:
+
+✔ random
+
+Used for generating Order ID
+
+Used for random delivery date calculation
+
+
+✔ datetime
+
+Used to calculate the expected delivery date
+
+Gets current date and adds random days (3–7)
+
+
+✔ collections.Counter
+
+Used for:
+
+Counting item quantities in the cart
+
+Displaying cart summary
+
+Frequency table during checkout
+
+
+
+
+---
+
+3. Text File Storage
+
+The project uses receipt.txt for saving the final billing receipt.
+
+Enables persistent record-keeping.
+
+
+
+---
+
+4. Terminal / Command Line Interface
+
+User interacts through a console-based menu.
+
+Uses input() for user responses and print() for display.
+
+
+---
+
+
 
 <img width="661" height="682" alt="Screenshot 2025-11-25 at 12 32 25 AM" src="https://github.com/user-attachments/assets/89ca0d5a-6f86-4c81-90b9-17239db5494e" />
 <img width="644" height="667" alt="Screenshot 2025-11-25 at 12 33 10 AM" src="https://github.com/user-attachments/assets/a62ca3da-6597-492b-a7af-596162d5d3a8" />
