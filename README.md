@@ -309,7 +309,7 @@ Uses input() for user responses and print() for display.
 
 ---
 
-
+Screenshots=
 
 <img width="661" height="682" alt="Screenshot 2025-11-25 at 12 32 25 AM" src="https://github.com/user-attachments/assets/89ca0d5a-6f86-4c81-90b9-17239db5494e" />
 <img width="644" height="667" alt="Screenshot 2025-11-25 at 12 33 10 AM" src="https://github.com/user-attachments/assets/a62ca3da-6597-492b-a7af-596162d5d3a8" />
