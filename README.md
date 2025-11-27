@@ -35,13 +35,16 @@ will automatically match **Rice 1kg**.
 ## 📥 Installation & Running the Project
 
 ### 1. Clone the Repository
-```bash
+
 git clone https://github.com/yourusername/shopping-cart-system.git
 
-## Screenshot
-<img width="1470" height="956" alt="Screenshot 2025-11-27 at 11 06 38 PM" src="https://github.com/user-attachments/assets/dbba0fd6-9154-43fe-9519-7202de50e144" />
-<img width="2940" height="1912" alt="Screenshot 2025-11-27 at 11 06 53 PM" src="https://github.com/user-attachments/assets/454995b3-0bcb-46c4-b742-5b5e7df43ae4" />
-<img width="1470" height="956" alt="Screenshot 2025-11-27 at 11 07 15 PM" src="https://github.com/user-attachments/assets/3f532e42-37e6-477a-a3f9-e508c920ce4b" />
+
+## ScreenShots
+<img width="1470" height="956" alt="Screenshot 2025-11-27 at 11 06 38 PM" src="https://github.com/user-attachments/assets/ae78c95f-c72d-4b6b-b737-5bf633af95a6" />
+<img width="2940" height="1912" alt="Screenshot 2025-11-27 at 11 06 53 PM" src="https://github.com/user-attachments/assets/d537589a-62f5-4731-9f47-ddb078876476" />
+<img width="1470" height="956" alt="Screenshot 2025-11-27 at 11 07 15 PM" src="https://github.com/user-attachments/assets/152c61d6-4a35-4506-ac71-54994cb25d09" />
+
+
 
 
 
