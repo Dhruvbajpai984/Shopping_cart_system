@@ -26,9 +26,21 @@ will automatically match **Rice 1kg**.
 
 ---
 
-## 🛠️ Technologies Used
-- **Python 3.x**
-- Only standard Python libraries
+🛠️ Technologies / Tools Used
+
+Python 3
+
+Dictionaries & Lists for data storage
+
+Functions for modular design
+
+String processing for product-name normalization
+
+Loops & conditions for program flow
+
+Terminal/Console for user interaction
+
+(Optional) VS Code for writing & running the program
 
 ---
 
