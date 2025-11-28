@@ -1,6 +1,6 @@
-# 🛒 Shopping Cart Billing System (Python)
+#  Shopping Cart Billing System (Python)
 
-## 📌 Overview
+##  Overview
 A simple and user-friendly **console-based billing system** made with Python.  
 Users can browse products, add items to a cart, view the cart, and checkout with an auto-generated bill.
 
@@ -14,7 +14,7 @@ will automatically match **Rice 1kg**.
 
 ---
 
-## ⭐ Features
+##  Features
 - ✔️ Product catalog with price & available stock  
 - ✔️ Smart flexible name matching  
 - ✔️ Add items to cart  
@@ -26,7 +26,7 @@ will automatically match **Rice 1kg**.
 
 ---
 
-🛠️ Technologies / Tools Used
+ Technologies / Tools Used
 
 - Python 3
 
@@ -44,7 +44,7 @@ will automatically match **Rice 1kg**.
 
 ---
 
-## 📥 Installation & Running the Project
+##  Installation & Running the Project
 
 ### 1. Clone the Repository
 
