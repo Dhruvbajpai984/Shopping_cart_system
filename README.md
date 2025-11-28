@@ -30,17 +30,17 @@ will automatically match **Rice 1kg**.
 
 Python 3
 
-Dictionaries & Lists for data storage
+- Dictionaries & Lists for data storage
 
-Functions for modular design
+- Functions for modular design
 
-String processing for product-name normalization
+- String processing for product-name normalization
 
-Loops & conditions for program flow
+- Loops & conditions for program flow
 
-Terminal/Console for user interaction
+- Terminal/Console for user interaction
 
-(Optional) VS Code for writing & running the program
+- VS Code for writing & running the program
 
 ---
 
