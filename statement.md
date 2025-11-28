@@ -1,4 +1,4 @@
-# 📄 Problem Statement
+#  Problem Statement
 
 The goal of this project is to create a **simple, efficient, and user-friendly Shopping Cart Billing System** that works entirely in the terminal.  
 Users should be able to browse available products, add items to their cart, review their selections, and generate a final bill during checkout.
