@@ -26,7 +26,7 @@ will automatically match **Rice 1kg**.
 
 ---
 
- Technologies / Tools Used
+ ## Technologies / Tools Used
 
 - Python 3
 
