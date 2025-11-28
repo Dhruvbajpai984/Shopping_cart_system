@@ -28,7 +28,7 @@ will automatically match **Rice 1kg**.
 
 🛠️ Technologies / Tools Used
 
-Python 3
+- Python 3
 
 - Dictionaries & Lists for data storage
 
